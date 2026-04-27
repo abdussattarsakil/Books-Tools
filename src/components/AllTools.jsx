@@ -1,6 +1,6 @@
 import ToolsCard from "./ToolsCard";
 
-const AllTools = () => {
+const AllTools = ({carts ,setCarts}) => {
     return (
         <div className=" space-y-5">
             {/* static */}
@@ -13,12 +13,12 @@ const AllTools = () => {
             {/* dynamic */}
             <div className="text-center space-x-4 ">
                 <button className="btn rounded-full">All Tools</button>
-                <button className="btn btn-warning rounded-full">Cart </button>
+                <button className="btn btn-warning rounded-full">Cart ({carts.length})</button>
             </div>
 
             {/* dynamic content */}
-            <div className="">
-               <ToolsCard></ToolsCard>
+            <div className="box-border w-fit m-auto">
+               <ToolsCard carts={carts} setCarts={setCarts}></ToolsCard>
             </div>
         </div>
     );
