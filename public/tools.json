@@ -1,0 +1,172 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Resume Builder Pro",
+    "description": "Professional resume builder with ATS-friendly templates and AI-powered content suggestions",
+    "price": 29.99,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "100+ professional templates",
+      "ATS optimization",
+      "Export to PDF/DOCX",
+      "AI content suggestions",
+      "Cover letter builder"
+    ],
+    "icon": "📄"
+  },
+  {
+    "id": "prod_002",
+    "name": "Cloud Storage Plus",
+    "description": "Secure cloud storage solution with unlimited bandwidth and file sharing",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "500GB storage space",
+      "Unlimited bandwidth",
+      "File encryption",
+      "Team collaboration",
+      "Mobile & desktop apps"
+    ],
+    "icon": "☁️"
+  },
+  {
+    "id": "prod_003",
+    "name": "Video Editor Ultimate",
+    "description": "Professional-grade video editing software with 4K support and effects library",
+    "price": 199.99,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "4K video editing",
+      "500+ effects & transitions",
+      "Motion tracking",
+      "Color grading tools",
+      "Multi-track timeline"
+    ],
+    "icon": "🎬"
+  },
+  {
+    "id": "prod_004",
+    "name": "SEO Optimizer",
+    "description": "Complete SEO toolkit for keyword research, site audit, and rank tracking",
+    "price": 49.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Keyword research tool",
+      "Site audit & analysis",
+      "Rank tracking",
+      "Backlight monitoring",
+      "Competitor analysis"
+    ],
+    "icon": "📊"
+  },
+  {
+    "id": "prod_005",
+    "name": "Password Manager Secure",
+    "description": "Enterprise-level password manager with biometric authentication",
+    "price": 39.99,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Unlimited passwords",
+      "Biometric login",
+      "Password generator",
+      "Secure notes",
+      "Cross-device sync"
+    ],
+    "icon": "🔐"
+  },
+  {
+    "id": "prod_006",
+    "name": "AI Content Writer",
+    "description": "AI-powered content generation tool for blogs, social media, and marketing",
+    "price": 79.99,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "50+ content templates",
+      "SEO-optimized content",
+      "Plagiarism checker",
+      "Multi-language support",
+      "Tone customization"
+    ],
+    "icon": "✍️"
+  },
+  {
+    "id": "prod_007",
+    "name": "Project Manager Pro",
+    "description": "Comprehensive project management tool with charts and team collaboration",
+    "price": 15.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Unlimited projects",
+      "charts",
+      "Task dependencies",
+      "Time tracking",
+      "Team messaging"
+    ],
+    "icon": "📋"
+  },
+  {
+    "id": "prod_008",
+    "name": "Email Marketing Suite",
+    "description": "All-in-one email marketing platform with automation and analytics",
+    "price": 299.99,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Unlimited emails",
+      "Email automation",
+      "A/B testing",
+      "Advanced analytics",
+      "Landing page builder"
+    ],
+    "icon": "📧"
+  },
+  {
+    "id": "prod_009",
+    "name": "Design Templates Pack",
+    "description": "Premium collection of design templates for social media, presentations, and web",
+    "price": 59.99,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "1000+ templates",
+      "Fully customizable",
+      "Multiple formats",
+      "Commercial license",
+      "Lifetime updates"
+    ],
+    "icon": "🎨"
+  },
+  {
+    "id": "prod_010",
+    "name": "Website Builder",
+    "description": "Drag-and-drop website builder with e-commerce support and hosting included",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Drag & drop builder",
+      "E-commerce ready",
+      "Free hosting",
+      "SSL certificate",
+      "Mobile responsive"
+    ],
+    "icon": "🌐"
+  }
+]
