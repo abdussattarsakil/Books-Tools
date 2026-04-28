@@ -1,4 +1,5 @@
 import { use } from "react";
+import { toast } from "react-toastify";
 
 const toolPromise = fetch("./tools.json").then(res => res.json())
 
@@ -8,9 +9,11 @@ const ToolsCard = ({ carts, setCarts }) => {
     const addCarts = (tool) => {
         const isExist = carts.find(cart => cart.id === tool.id);
         if (isExist) {
+            toast.warn(`${tool.name} is already added cart`)
             return;
         }
         setCarts([...carts, tool])
+        toast.success(`${tool.name}add to cart`)
     }
     console.log(carts);
     return (
