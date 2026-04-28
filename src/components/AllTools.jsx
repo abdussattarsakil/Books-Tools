@@ -1,6 +1,12 @@
 import ToolsCard from "./ToolsCard";
 
-const AllTools = ({carts ,setCarts}) => {
+const AllTools = ({carts ,setCarts , toggle ,setToggle}) => {
+    const toggleAll=()=>{
+        setToggle(false)
+    }
+    const toggleCart =()=>{
+        setToggle(true)
+    }
     return (
         <div className=" space-y-5">
             {/* static */}
@@ -12,13 +18,13 @@ const AllTools = ({carts ,setCarts}) => {
 
             {/* dynamic */}
             <div className="text-center space-x-4 ">
-                <button className="btn rounded-full">All Tools</button>
-                <button className="btn btn-warning rounded-full">Cart ({carts.length})</button>
+                <button onClick={toggleAll} className={`btn ${toggle?'btn-warning':''}`}>All Tools</button>
+                <button onClick={toggleCart} className={`btn ${toggle?'':'btn-warning'}`}>Cart ({carts.length})</button>
             </div>
 
             {/* dynamic content */}
             <div className="box-border w-fit m-auto">
-               <ToolsCard carts={carts} setCarts={setCarts}></ToolsCard>
+               <ToolsCard carts={carts} setCarts={setCarts} ></ToolsCard>
             </div>
         </div>
     );
