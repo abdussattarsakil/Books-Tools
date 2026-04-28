@@ -26,6 +26,7 @@ const ToolsCard = ({ carts, setCarts }) => {
                                 <h2 className="card-title">{tool.name}</h2>
                                 <p>{tool.description}</p>
                                 <h2>{tool.price}/{tool.period}</h2>
+                                <img className="w-2/12" src={tool.icon} alt="" />
                                 <div className="justify-end card-actions">
                                     <button onClick={() => addCarts(tool)} className="btn btn-primary">Buy Now</button>
                                 </div>

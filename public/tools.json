@@ -1,172 +1,152 @@
 [
   {
-    "id": "prod_001",
-    "name": "Resume Builder Pro",
-    "description": "Professional resume builder with ATS-friendly templates and AI-powered content suggestions",
-    "price": 29.99,
+    "id": 1,
+    "name": "Pro Resume Builder",
+    "description": "Create professional resumes that get you hired faster with AI-powered suggestions and modern templates.",
+    "price": 29,
     "period": "one-time",
     "tag": "Best Seller",
-    "tagType": "best-seller",
+    "tagType": "best seller",
     "features": [
-      "100+ professional templates",
-      "ATS optimization",
-      "Export to PDF/DOCX",
-      "AI content suggestions",
-      "Cover letter builder"
+      "50+ Premium Templates",
+      "AI Content Suggestions",
+      "Export to PDF & Word"
     ],
-    "icon": "📄"
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
   },
   {
-    "id": "prod_002",
-    "name": "Cloud Storage Plus",
-    "description": "Secure cloud storage solution with unlimited bandwidth and file sharing",
-    "price": 9.99,
-    "period": "monthly",
-    "tag": "Popular",
-    "tagType": "popular",
-    "features": [
-      "500GB storage space",
-      "Unlimited bandwidth",
-      "File encryption",
-      "Team collaboration",
-      "Mobile & desktop apps"
-    ],
-    "icon": "☁️"
-  },
-  {
-    "id": "prod_003",
-    "name": "Video Editor Ultimate",
-    "description": "Professional-grade video editing software with 4K support and effects library",
-    "price": 199.99,
-    "period": "yearly",
-    "tag": "New",
-    "tagType": "new",
-    "features": [
-      "4K video editing",
-      "500+ effects & transitions",
-      "Motion tracking",
-      "Color grading tools",
-      "Multi-track timeline"
-    ],
-    "icon": "🎬"
-  },
-  {
-    "id": "prod_004",
-    "name": "SEO Optimizer",
-    "description": "Complete SEO toolkit for keyword research, site audit, and rank tracking",
-    "price": 49.99,
-    "period": "monthly",
-    "tag": "Popular",
-    "tagType": "popular",
-    "features": [
-      "Keyword research tool",
-      "Site audit & analysis",
-      "Rank tracking",
-      "Backlight monitoring",
-      "Competitor analysis"
-    ],
-    "icon": "📊"
-  },
-  {
-    "id": "prod_005",
-    "name": "Password Manager Secure",
-    "description": "Enterprise-level password manager with biometric authentication",
-    "price": 39.99,
-    "period": "yearly",
-    "tag": "Best Seller",
-    "tagType": "best-seller",
-    "features": [
-      "Unlimited passwords",
-      "Biometric login",
-      "Password generator",
-      "Secure notes",
-      "Cross-device sync"
-    ],
-    "icon": "🔐"
-  },
-  {
-    "id": "prod_006",
-    "name": "AI Content Writer",
-    "description": "AI-powered content generation tool for blogs, social media, and marketing",
-    "price": 79.99,
-    "period": "monthly",
-    "tag": "New",
-    "tagType": "new",
-    "features": [
-      "50+ content templates",
-      "SEO-optimized content",
-      "Plagiarism checker",
-      "Multi-language support",
-      "Tone customization"
-    ],
-    "icon": "✍️"
-  },
-  {
-    "id": "prod_007",
-    "name": "Project Manager Pro",
-    "description": "Comprehensive project management tool with charts and team collaboration",
-    "price": 15.99,
-    "period": "monthly",
-    "tag": "Popular",
-    "tagType": "popular",
-    "features": [
-      "Unlimited projects",
-      "charts",
-      "Task dependencies",
-      "Time tracking",
-      "Team messaging"
-    ],
-    "icon": "📋"
-  },
-  {
-    "id": "prod_008",
-    "name": "Email Marketing Suite",
-    "description": "All-in-one email marketing platform with automation and analytics",
-    "price": 299.99,
-    "period": "yearly",
-    "tag": "Best Seller",
-    "tagType": "best-seller",
-    "features": [
-      "Unlimited emails",
-      "Email automation",
-      "A/B testing",
-      "Advanced analytics",
-      "Landing page builder"
-    ],
-    "icon": "📧"
-  },
-  {
-    "id": "prod_009",
-    "name": "Design Templates Pack",
-    "description": "Premium collection of design templates for social media, presentations, and web",
-    "price": 59.99,
+    "id": 2,
+    "name": "AI Cover Letter Pro",
+    "description": "Generate personalized, job-winning cover letters in seconds using advanced AI.",
+    "price": 19,
     "period": "one-time",
     "tag": "New",
     "tagType": "new",
     "features": [
-      "1000+ templates",
-      "Fully customizable",
-      "Multiple formats",
-      "Commercial license",
-      "Lifetime updates"
+      "Job-specific Customization",
+      "Grammar & Plagiarism Check",
+      "Export to PDF"
     ],
-    "icon": "🎨"
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135789.png"
   },
   {
-    "id": "prod_010",
-    "name": "Website Builder",
-    "description": "Drag-and-drop website builder with e-commerce support and hosting included",
-    "price": 19.99,
+    "id": 3,
+    "name": "Career Pro Monthly",
+    "description": "Unlimited access to all resume & cover letter tools with priority AI support.",
+    "price": 12,
     "period": "monthly",
     "tag": "Popular",
     "tagType": "popular",
     "features": [
-      "Drag & drop builder",
-      "E-commerce ready",
-      "Free hosting",
-      "SSL certificate",
-      "Mobile responsive"
+      "Unlimited Resumes & Cover Letters",
+      "Priority AI Processing",
+      "Interview Preparation Kit"
     ],
-    "icon": "🌐"
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135758.png"
+  },
+  {
+    "id": 4,
+    "name": "LinkedIn Profile Optimizer",
+    "description": "Get more profile views and opportunities with AI-powered LinkedIn optimization.",
+    "price": 39,
+    "period": "one-time",
+    "tag": "",
+    "tagType": "",
+    "features": [
+      "Profile Score Analysis",
+      "AI Headline & About Section",
+      "Before & After Report"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3536/3536505.png"
+  },
+  {
+    "id": 5,
+    "name": "Ultimate Job Bundle",
+    "description": "Complete career toolkit including resume, cover letter, LinkedIn optimization & interview prep.",
+    "price": 79,
+    "period": "one-time",
+    "tag": "Best Value",
+    "tagType": "popular",
+    "features": [
+      "Everything in Pro Resume",
+      "Interview Question Bank",
+      "1 Year Updates"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135810.png"
+  },
+  {
+    "id": 6,
+    "name": "Yearly Career Access",
+    "description": "Full access to all tools for one year with exclusive premium features.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Unlimited Projects",
+      "All Premium Templates",
+      "Exclusive Webinars"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2721/2721298.png"
+  },
+  {
+    "id": 7,
+    "name": "Portfolio Builder Pro",
+    "description": "Build a stunning professional portfolio website in minutes.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Drag & Drop Builder",
+      "Custom Domain Support",
+      "SEO Optimized"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135794.png"
+  },
+  {
+    "id": 8,
+    "name": "Interview Ace",
+    "description": "AI-powered interview preparation with real-time feedback and mock interviews.",
+    "price": 25,
+    "period": "one-time",
+    "tag": "",
+    "tagType": "",
+    "features": [
+      "500+ Common Questions",
+      "Industry-specific Prep",
+      "Performance Reports"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135724.png"
+  },
+  {
+    "id": 9,
+    "name": "Freelancer Starter Pack",
+    "description": "Perfect toolkit for freelancers to create proposals, profiles & portfolios.",
+    "price": 35,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      "Proposal Templates",
+      "Contract Templates",
+      "Pricing Calculator"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135777.png"
+  },
+  {
+    "id": 10,
+    "name": "Enterprise Team Plan",
+    "description": "Team license for companies and career coaches helping multiple candidates.",
+    "price": 299,
+    "period": "yearly",
+    "tag": "",
+    "tagType": "",
+    "features": [
+      "Up to 10 Team Members",
+      "Custom Branding",
+      "Priority Support"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135801.png"
   }
 ]
