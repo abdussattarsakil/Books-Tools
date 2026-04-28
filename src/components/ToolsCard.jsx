@@ -12,7 +12,7 @@ const ToolsCard = ({ carts, setCarts }) => {
         }
         setCarts([...carts, tool])
     }
-    //console.log(carts);
+    console.log(carts);
     return (
         <div>
             <div className="grid justify-items-center gap-5 grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
